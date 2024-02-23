@@ -6,7 +6,7 @@
     (property "Value" "A4988" (at 27.94 -34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm" (at 17.78 -39.37 0)
+    (property "Footprint" "Package_DFN_QFN:VQFN-32-1EP_5x5mm_P0.5mm_EP3.15x3.15mm_ThermalVias" (at 17.78 -39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.allegromicro.com/~/media/Files/Datasheets/A4988-Datasheet.ashx" (at 17.78 -41.91 0)
